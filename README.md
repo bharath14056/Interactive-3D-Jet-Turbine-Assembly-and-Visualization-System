@@ -87,13 +87,13 @@ git clone https://github.com/yourusername/project-name.git
 
 ## 👨‍💻 Author
 
-**Bharath Kumar S<img width="1920" height="1080" alt="Screenshot 2026-06-03 151946" src="https://github.com/user-attachments/assets/599f456e-18a2-4973-9a2f-47211edd2858" />
+**Bharath Kumar S <img width="1920" height="1080" alt="Screenshot 2026-06-03 151946" src="https://github.com/user-attachments/assets/599f456e-18a2-4973-9a2f-47211edd2858" />
 <img width="1920" height="1080" alt="Screenshot 2026-06-03 151857" src="https://github.com/user-attachments/assets/2746f458-d166-4e31-942c-bb9757f6c084" />
 
 
 
 
- S**
+
 
 GitHub: https://github.com/bharath14056
 
